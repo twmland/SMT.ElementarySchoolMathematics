@@ -1,0 +1,29 @@
+{
+  "name": "smt.elementaryschoolmathematics",
+  "version": "1.0.0",
+  "description": "Mathmatics of elementaryschool ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/twmland/SMT.ElementarySchoolMathematics.git"
+  },
+  "keywords": [
+    "elememtary",
+    "school",
+    "mathmatics"
+  ],
+  "author": "King Liu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/twmland/SMT.ElementarySchoolMathematics/issues"
+  },
+  "homepage": "https://github.com/twmland/SMT.ElementarySchoolMathematics#readme",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "ejs-locals": "^1.0.2",
+    "express": "^4.17.3"
+  }
+}
